@@ -1,2 +1,2 @@
-# C-Users-Carolina-Dochallenge-amigo-secreto
+# Amigo-secreto
 Alura Latam
