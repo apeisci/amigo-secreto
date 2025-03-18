@@ -6,3 +6,5 @@ El mismo fué desarrollado con HTML5, CSS3, JavaScript.
 Por medio del agregado de nombres se realiza la validación de entrada delos mismos, con la correspondiente eliminación de ser necesaria, para luego, una vez ingrasados poder realizar el sorteo de manera aleatoria.
 # Instalación:
 Pprocedimiento de instalación, mediante el siguiente enlace:
+https://github.com/apeisci/amigo-secreto
+
