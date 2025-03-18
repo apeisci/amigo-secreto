@@ -1,11 +1,11 @@
 :root {
   --color-primary: #4b69fd;
-  --color-secondary: #fff9eb;
-  --color-tertiary: #c4c4c4;
-  --color-button: #fe652b;
+  --color-secondary: #0af25b;
+  --color-tertiary: #0af0d5;
+  --color-button: #faf60f;
   --color-button-hover: #e55720;
-  --color-text: #444444;
-  --color-white: #ffffff;
+  --color-text: #140909;
+  --color-white: #f70521;
 }
 
 /* Estilos generales */
@@ -48,7 +48,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 20px;
+  padding: 10px;
   width: 100%;
 }
 
@@ -88,7 +88,7 @@ body {
 }
 
 .button-container {
-  width: 300px;
+  width: 250px;
   justify-content: center;
 }
 
